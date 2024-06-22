@@ -1,6 +1,8 @@
 
 # Toggle Dark Mode
 
+Site is live at https://jainambheda.github.io/Toggle-Dark-Mode/
+
 A simple and effective dark mode toggle feature implemented using JavaScript, CSS, and HTML.
 
 ## Features
